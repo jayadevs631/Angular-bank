@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+
+    background-size: cover;
+}
+header{
+    color: white;
+    height: 50px;
+    background-color: rgb(114, 114, 196);
+}
+footer{
+color: white;
+height: 60px;
+position:fixed;
+bottom: 0;
+width: 100%;
+background-color: rgb(114, 114, 196);
+}
+
